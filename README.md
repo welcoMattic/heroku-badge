@@ -29,7 +29,8 @@ Markdown:
 
 ##Todo
 
-* configurable heroku check url
++ [ ] configurable heroku check url
++ [ ] add flat badges
 
 ##Copyright
 
