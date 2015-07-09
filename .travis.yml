@@ -7,8 +7,8 @@ deploy:
   provider: heroku
   api_key:
     secure: tYHe+VokmHad9tHllyrT/LNDCeAKFwr+enL6PAHgH/xKbQhm6RFcrgX7qVHznlu1IpX6/LjX0ORyU/+JuxZWtBYhznPyqZ33g3jxj84by2taHlmsU0QXhgIfzin7V+ET/HiFJzSP+H2jLePcZ737c1D89A+ZoRJidYippD6PO24=
-  app: heroku-badge
+  app: heroku-badges
   on:
-    repo: welcoMattic/heroku-badge
+    repo: welcoMattic/heroku-badges
 before_deploy:
 - if [[ -a .git/shallow ]]; then git fetch --unshallow; fi
