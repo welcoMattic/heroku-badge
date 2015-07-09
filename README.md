@@ -1,4 +1,4 @@
-heroku-deployment-badges
+heroku-badges
 ==================
 [![Build Status](https://travis-ci.org/welcoMattic/heroku-badge.svg?branch=master)](https://travis-ci.org/welcoMattic/heroku-badge)
 [![Dependencies](https://david-dm.org/welcoMattic/heroku-badge.png)](https://david-dm.org/welcoMattic/heroku-badge)
