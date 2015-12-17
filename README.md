@@ -1,7 +1,7 @@
 heroku-badges
 ==================
-[![Build Status](https://travis-ci.org/welcoMattic/heroku-badge.svg?branch=master)](https://travis-ci.org/welcoMattic/heroku-badge)
-[![Dependencies](https://david-dm.org/welcoMattic/heroku-badge.png)](https://david-dm.org/welcoMattic/heroku-badge)
+[![Build Status](https://travis-ci.org/welcoMattic/heroku-badges.svg?branch=master)](https://travis-ci.org/welcoMattic/heroku-badges)
+[![Dependencies](https://david-dm.org/welcoMattic/heroku-badges.png)](https://david-dm.org/welcoMattic/heroku-badge)
 [![Heroku](http://heroku-badges.herokuapp.com/?app=heroku-deployment-badges)](http://heroku-badges.herokuapp.com/projects.html)
 
 ##Usage
