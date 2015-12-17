@@ -2,26 +2,26 @@ heroku-badges
 ==================
 [![Build Status](https://travis-ci.org/welcoMattic/heroku-badge.svg?branch=master)](https://travis-ci.org/welcoMattic/heroku-badge)
 [![Dependencies](https://david-dm.org/welcoMattic/heroku-badge.png)](https://david-dm.org/welcoMattic/heroku-badge)
-[![Heroku](http://heroku-deployment-badges.herokuapp.com/?app=heroku-deployment-badges)](http://heroku-deployment-badges.herokuapp.com/projects.html)
+[![Heroku](http://heroku-badges.herokuapp.com/?app=heroku-deployment-badges)](http://heroku-badges.herokuapp.com/projects.html)
 
 ##Usage
 
-Create an `img` with src `https://heroku-deployment-badges.herokuapp.com/?app={app-name}`. E.g.,
+Create an `img` with src `https://heroku-badges.herokuapp.com/?app={app-name}`. E.g.,
 
 HTML:
 
-    <img src="https://heroku-deployment-badges.herokuapp.com/?app=heroku-deployment-badges" />
+    <img src="https://heroku-badges.herokuapp.com/?app=heroku-badges" />
 
 Markdown:
 
-    [![Heroku](https://heroku-deployment-badges.herokuapp.com/?app=heroku-deployment-badges)]
+    [![Heroku](https://herok-badges.herokuapp.com/?app=heroku-badges)]
 
 
 If the heroku app has no index.html than use the root query parameter to specify the url to check if heroku response with http status 200.
 
 HTML:
 
-    <img src="http://heroku-deployment-badges.herokuapp.com/?app=angularjs-crypto&root=products-e2e.html" />
+    <img src="http://heroku-badges.herokuapp.com/?app=angularjs-crypto&root=products-e2e.html" />
 
 Markdown:
 
