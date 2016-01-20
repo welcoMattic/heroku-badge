@@ -2,7 +2,7 @@ heroku-badges
 ==================
 [![Build Status](https://travis-ci.org/welcoMattic/heroku-badges.svg?branch=master)](https://travis-ci.org/welcoMattic/heroku-badges)
 [![Dependencies](https://david-dm.org/welcoMattic/heroku-badges.png)](https://david-dm.org/welcoMattic/heroku-badge)
-[![Heroku](http://heroku-badges.herokuapp.com/?app=heroku-deployment-badges)](http://heroku-badges.herokuapp.com/projects.html)
+[![Heroku](http://heroku-badges.herokuapp.com/?app=heroku-badges)](http://heroku-badges.herokuapp.com/projects.html)
 
 ##Usage
 
@@ -21,16 +21,16 @@ If the heroku app has no index.html than use the root query parameter to specify
 
 HTML:
 
-    <img src="http://heroku-badges.herokuapp.com/?app=angularjs-crypto&root=products-e2e.html" />
+    <img src="http://heroku-badges.herokuapp.com/?app=heroku-badges&root=products-e2e.html" />
 
 Markdown:
 
-    [![Heroku](http://heroku-deployment-badges.herokuapp.com/?app=angularjs-crypto&root=products-e2e.html)]
+    [![Heroku](http://heroku-badges.herokuapp.com/?app=heroku-badges&root=products-e2e.html)]
 
 ##Todo
 
 + [ ] configurable heroku check url
-+ [ ] add flat badges
++ [x] add flat badges
 
 ##Copyright
 
@@ -39,4 +39,4 @@ The badges are made by me but feel free to use and copy it of course you have to
 License
 --------------
 
-heroku-deployment-badges is released under the [MIT License](http://opensource.org/licenses/MIT).
+heroku-badges is released under the [MIT License](http://opensource.org/licenses/MIT).
